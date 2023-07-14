@@ -1,5 +1,2 @@
-numpy @ file:///C:/b/abs_datssh7cer/croot/numpy_and_numpy_base_1672336199388/work
-pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
 scipy==1.10.0
 xgboost==1.7.5
-matplotlib @ file:///C:/b/abs_b2d7uv90hg/croot/matplotlib-suite_1677674332463/work
