@@ -88,7 +88,6 @@ def get_user_input():
 # Define the main function
 def main():
     st.title('GICU入室患者の退院時ADL予測')
-    st.write('XGBoost version:', xgb.__version__)
 
     # Get user input
     new_data = get_user_input()
